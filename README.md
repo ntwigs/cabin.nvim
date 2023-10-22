@@ -1,3 +1,5 @@
+**WIP**
+
 <p align="center">
   <img alt='cabin' src='./.github/assets/header.png'/>
   <h2 align="center">Cabin - a dark and cozy nvim theme. 🏠🌲</h2>
